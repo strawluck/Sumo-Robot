@@ -31,6 +31,6 @@ void initPorts(void)
 	PORTA = 0;					// Turn off all PORTA outputs, turn on run LED
 	PORTB = 0;					// Turn off all PORTB LEDs
 	PORTC = 0;					// Turn off all PORTC outputs
-
+ 
 	// Enable interrupts, if needed.
 }
